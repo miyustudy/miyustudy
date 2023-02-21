@@ -17,9 +17,13 @@
 </br>
 </br>
 
-<div align = "center"> 🍰 My SNS </br>
+<div align = "center"> 🍰 MY SNS </br>
 </br>
 <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </div> 
+
+</br>
+</br>
+
