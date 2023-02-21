@@ -17,4 +17,4 @@
 </br>
 </br>
 
-<div align = "center"> My SNS </div> 
+<div align = "center"> 🍰 My SNS </div> 
