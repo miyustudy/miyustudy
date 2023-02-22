@@ -27,5 +27,5 @@
 </br>
 </br>
 
-[![miyustudy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miyustudy&stats=last_7_days
-)]
+![miyustudy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miyustudy&stats=last_7_days
+)
