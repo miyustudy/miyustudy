@@ -27,5 +27,8 @@
 </br>
 </br>
 
+
+<div align = "center">
 ![miyustudy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miyustudy&stats=last_7_days
 )
+</
