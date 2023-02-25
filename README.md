@@ -34,9 +34,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-196-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-197-blue)
 
 **🐱 My GitHub Data** 
 
@@ -110,7 +110,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/miyustudy/miyustudy/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2023 18:40:54 UTC
+ Last Updated on 25/02/2023 18:38:54 UTC
 <!--END_SECTION:waka-->
 
 
