@@ -110,7 +110,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/miyustudy/miyustudy/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2023 18:39:29 UTC
+ Last Updated on 04/03/2023 18:38:01 UTC
 <!--END_SECTION:waka-->
 
 
